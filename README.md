@@ -1,8 +1,8 @@
-## About this branch:
-This branch is an archive of the mod from before the rename and further modularization. There will be no further changes to the code here.
+## About this Repository:
+This is an archive of the Cheat Menu Framework mod from before the rename and further modularization. There will be no further changes to the code here.
 
 # Modular Cheats Mod (a.k.a MCM)
-An updated, module-based version of the Cheats Mod.
+An newer, module-based version of the Cheats Mod.
 
 ## Compatibility:
 Minimum required game version: 0.8.1.0+
